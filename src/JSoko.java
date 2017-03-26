@@ -51,7 +51,7 @@ public class JSoko {
 		VuePartie vp2 = new VuePartie(p);
 		VuePlateau vp = new VuePlateau(p);
 		
-		javax.swing.JFrame f = new javax.swing.JFrame("JSoko");
+		javax.swing.JFrame f = new javax.swing.JFrame("Sokoban IA");
 		f.getContentPane().add(vp2,java.awt.BorderLayout.SOUTH);
 		f.getContentPane().add(vp,java.awt.BorderLayout.CENTER);
 		f.setDefaultCloseOperation(javax.swing.JFrame.EXIT_ON_CLOSE);
