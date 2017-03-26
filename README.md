@@ -6,7 +6,7 @@ This project uses HMI of JSoko project (http://www.sokoban-online.de/download.ht
 
 ## Screenshots
 
-<img src="/screenshots/1.png" alt="1" />
-<img src="/screenshots/2.png" alt="2" />
-<img src="/screenshots/3.png" alt="3" />
-<img src="/screenshots/4.png" alt="4" />
+<img src="/screenshots/1.png" alt="1" width="200" />
+<img src="/screenshots/2.png" alt="2" width="200" />
+<img src="/screenshots/3.png" alt="3" width="200" />
+<img src="/screenshots/4.png" alt="4" width="200" />
